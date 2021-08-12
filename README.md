@@ -1,1 +1,7 @@
-# Task---9
+Screenshot of the console output immediately after running the withdraw command: https://github.com/MASHMZC/Task---9/blob/97de1204a3619e6f2569f9d0abcc0c3b3c2dc475/withdrawal-screenshot.png
+
+
+Ethereum address used for your Layer 2 account: 0x1E4aE901ad764B40ab0cF00Ef591360081f67476
+
+
+The Nervos Layer 1 address passed to withdraw command: ckt1q3dz2p4mdrvp5ywu4kk5edl2uc4p03puvx07g7kgqdau3n3dmypkqnxzuefxyp9wdghglncj77k5wt6p59sx6kukyjlwh5s467qgp8m25yqqqqqsqqqqqvqqqqqfjqqqqrj7vtmundw242urm3ud8jshq4r2qqfv0842mfvcacnugkw8qxknx6gqqqqpqqqqqqcqqqqqxyqqqqx7asf60w8pqpte2sfcfn90fdfzxue7ff2g8sawe9wacnqat6jmygqngqqqqpxv9ejjvgz2u63w3l839aadguh5rgtqd4devf97a0fpt4uqsz0k58j2ayq66ajtgz4seuqw7kgnvqyp7e68vq9rqgqqqqqqcqjn8v59
